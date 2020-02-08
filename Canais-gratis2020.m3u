@@ -28,34 +28,10 @@ https://wa.me/558791202231
 ################################################################################# Canais Temporários
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 1
-https://origin.canaismax.com/live/bbb01hd/video.m3u8?md5=NIMpz_9Y2unspDD0tRp1ew&expires=1579630057
+http://us14.server.kpecho.xyz/HD_BBB/video.m3u8?token=2b52b30dee39331571a0eebfbecf3db0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 2
-https://origin.canaismax.com/live/bbb02hd/video.m3u8?md5=U8Ji8SBJoaasCOKQQwPpvQ&expires=1579707329
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 3
-https://origin.canaismax.com/live/bbb03hd/video.m3u8?md5=sW6Mvv7uiFI1vTWAlJM6VA&expires=1580241145
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 4
-https://origin.canaismax.com/live/bbb04hd/video.m3u8?md5=5AQi7-2MCVpAuEgxvOiOaA&expires=1579722209
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 5
-https://origin.canaismax.com/live/bbb05hd/video.m3u8?md5=tnqOoQFXacckO_bnt9iQDA&expires=1579707759
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 6
-https://origin.canaismax.com/live/bbb06hd/video.m3u8?md5=O8ybbzlafgPGj6vBeKsIoA&expires=1579707967
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 7
-https://origin.canaismax.com/live/bbb07hd/video.m3u8?md5=AUisqPsZmH6JR_1zYFyN6w&expires=1579708716
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 8
-https://origin.canaismax.com/live/bbb08hd/video.m3u8?md5=BTRj2n_1JQfEneeL8B4SIw&expires=1579708056
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 9
-https://origin.canaismax.com/live/bbb09hd/video.m3u8?md5=TPUGmZydgovgYLTWt1f3Ew&expires=1579708228
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 10
-https://origin.canaismax.com/live/bbb04hd/video.m3u8?md5=5AQi7-2MCVpAuEgxvOiOaA&expires=1579722209
+http://us14.server.kpcharlie.xyz/HD_BBB_PISCINA/video.m3u8?token=2b52b30dee39331571a0eebfbecf3db0
 
 ################################################################################# A Fazenda 11
 
