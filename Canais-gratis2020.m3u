@@ -1,4 +1,4 @@
-# EXTM3U
+#EXTM3U
 
 #PLAYLISTV: pltv-logo="http://i.imgur.com/qGYobcS.jpg" pltv-name="Craft Games" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i.imgur.com/1yuAZPo.jpg" pltv-author="Craft Games" pltv-site="https://wa.me/558791202231" pltv-email="tvonlinegratis.canais@gmail.com" pltv-phone="(87) 99120-2231"
 
@@ -10,7 +10,7 @@ https://wa.me/558791202231
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/CraftGames
 https://wa.me/558791202231
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 08/02/2020
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 15/01/2020
 https://wa.me/558791202231
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Proxima Atualização: 15/02/2020
@@ -329,13 +329,13 @@ http://200.189.113.201/hls/tve.m3u8?PEDROJUNIORTUTORIAIS
 http://stream.tvitarare.com.br/hls/site/site.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura SP
-https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+https://tinyurl.com/uaaencb
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura SP HD
-https://globolive.akamaized.net/d/c/x2800/s/hls-futura24ha/hls-futura24ha_2316/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
+https://tinyurl.com/uaaencb
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura SP SD/HD
-https://tinyurl.com/t8weo29?PEDROJUNIORTUTORIAIS
+https://live.video.globo.com/d/s/hls-futura24ha/hls-futura24ha_4783/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura RJ
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
