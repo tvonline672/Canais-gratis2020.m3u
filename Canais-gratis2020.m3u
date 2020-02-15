@@ -39,22 +39,6 @@ http://us14.server.kpecho.xyz/HD_BBB/video.m3u8?token=2b52b30dee39331571a0eebfbe
 #EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 2
 http://us14.server.kpcharlie.xyz/HD_BBB_PISCINA/video.m3u8?token=2b52b30dee39331571a0eebfbecf3db0
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 5
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 6
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 7
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 9
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/a1/2020/01/13/logo-bbb-1578936093081_v2_900x506.jpg" group-title="Canais Temporários",BBB 2020 Camera 10
-
 ################################################################################# A Fazenda 11
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MuQCW3Q.png" group-title="Reality",A Fazenda 11
@@ -154,16 +138,6 @@ http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?LISTABYPEDROJUNIO
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Rio de Janeiro - Copacabana
 https://hddn01.skylinewebcams.com/live.m3u8?a=52c7tm7vhamvsdbrk88qiksd72
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Aeroporto de Congonhas de São Paulo
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Ubatuba - Praia Enseaba 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Arena Allianz Parque - Palestra Itália
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Av. Interlagos - Shopping Interlagos
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Marginal Pinheiros Trânsito
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Pico do gavião - Andradas MG
 https://cdn.jmvstream.com/w/IPC-6753/camera.stream/chunklist_w123335957.m3u8
 
@@ -172,19 +146,11 @@ https://cdn.jmvstream.com/w/IPC-6753/camera.stream/chunklist_w123335957.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Estúdio 90.5 FM São Paulo - SP
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Estúdio 91.7 FM Cascavel - PR
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Estúdio 96.5 FM Rio de Janeiro - RJ
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1579486776/ei/2LkkXtDDNJPq8wTm9rPAAw/ip/2804%3A1690%3A804%3Abeed%3A%3A1/id/Fe6iQwJfhYU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgf4-3eDGSDtqfMYgUGNc4pDpIhXQbbT2Oc9mD_n9MGTACIQCToDEYyjdBtRD3BaSDhAJ_AaP5rSdS6plKTBmiPdeQUg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Estúdio 100.5 FM Rio de Janeiro - RJ
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Estúdio 90.3 FM Recife - PE
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Novo Templo da Igreja da Graça - SP
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hMGmYxh.png" group-title="Câmeras",Santuário de Aparecida - Altar Central
 
 ################################################################################# Religiosos
 
@@ -273,8 +239,6 @@ http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUT
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/V3zjKvc.png" group-title="TV Aberta",TV FAAP
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/73O4PBb.png" group-title="TV Aberta",TV INES
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta",Rede Família
 https://redefamilia.cdnverizon.com.br/tvstreaming/ngrp:aovivo_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -402,12 +366,6 @@ https://tinyurl.com/tveparana-bycraftgames
 #EXTINF:-1 tvg-id="CULTURA" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PB
 http://stream.tvitarare.com.br/hls/site/site.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura SP
-
-#EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura SP HD
-
-#EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura SP SD/HD
-
 #EXTINF:-1 tvg-id="FUTURA" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura RJ
 http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -486,12 +444,8 @@ https://tinyurl.com/tvescola-bycraftgames
 #EXTINF:-1 tvg-id="TERRA VIVA" tvg-logo="http://i.imgur.com/6vBfgpS.png" group-title="TV Aberta",Terra Viva
 https://tinyurl.com/terravivahd-bycraftgames
 
-#EXTINF:-1 tvg-id="TV JUSTICA" tvg-logo="http://i.imgur.com/vY8jL1a.png" group-title="TV Aberta",TV Justiça
-
 #EXTINF:-1 tvg-id="TV CAMARA" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="TV Aberta",TV Câmara
 https://tinyurl.com/tvcamara-bycraftgames
-
-#EXTINF:-1 tvg-id="TV SENADO" tvg-logo="http://i.imgur.com/O3XSUeg.png" group-title="TV Aberta",TV Senado
 
 ################################################################################ Esportes
 
@@ -507,36 +461,8 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/premiereclubes.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-id="PREMIERE 2" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 2
 https://tinyurl.com/premiere2-bycraftgames
 
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 2 HD
-
 #EXTINF:-1 tvg-id="PREMIERE 3" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 3
 https://tinyurl.com/premiere3-bycraftgames
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 3 HD
-
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 4
-
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 4 HD
-
-#EXTINF:-1 tvg-id="PREMIERE 5" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 5
-
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 5 HD
-
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 6
-
-#EXTINF:-1 tvg-id="PREMIERE 6 HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 6 HD
-
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 7
-
-#EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 7 HD
-
-#EXTINF:-1 tvg-id="PREMIERE 8" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 8
-
-#EXTINF:-1 tvg-id="PREMIERE 8 HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 8 HD
-
-#EXTINF:-1 tvg-id="PREMIERE 9" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 9
-
-#EXTINF:-1 tvg-id="PREMIERE 9 HD" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere 9 HD
 
 #EXTINF:-1 tvg-id="ESPN BRASIL" tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="Esportes",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-b.m3u8?sd=10&rebase=on
@@ -561,16 +487,6 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/espnextra.m3u8
 
 #EXTINF:-1 tvg-id="ESPN EXTRA" tvg-logo="http://i.imgur.com/TW6ZY5p.png" group-title="Esportes",ESPN Extra HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/espnextra.m3u8
-
-#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="http://i.imgur.com/ifuWdBK.png" group-title="Esportes",Esporte Interativo
-
-#EXTINF:-1 tvg-id="WOOHOO" tvg-logo="http://i.imgur.com/Dt61U19.png" group-title="Esportes",Woohoo
-
-#EXTINF:-1 tvg-id="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off
-
-#EXTINF:-1 tvg-id="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off HD
-
-#EXTINF:-1 tvg-id="OFF" tvg-logo="http://i.imgur.com/WGoV3TD.png" group-title="Esportes",Off SD/HD
 
 #EXTINF:-1 tvg-id="BAND SPORTS" tvg-logo="http://i.imgur.com/wuMZB2S.png" group-title="Esportes",Band Sports
 https://d1cy34jllwtrns.cloudfront.net/hls1/bandsports.m3u8
@@ -625,27 +541,11 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?bycraftgames
 
 ################################################################################# Infantil
 
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho
-
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho HD
-
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-logo="http://i.imgur.com/oOdSv91.png" group-title="Infantil",Gloobinho SD/HD
-
-#EXTINF:-1 tvg-id="NATGEO KIDS" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids SD
-
 #EXTINF:-1 tvg-id="NATGEO KIDS" tvg-logo="http://i.imgur.com/wlQ5V8Z.png" group-title="Infantil",Nat Geo Kids HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/natgeokids.m3u8
 
-#EXTINF:-1 tvg-id="BABY TV" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV SD
-
-#EXTINF:-1 tvg-id="BABY TV" tvg-logo="http://i.imgur.com/N1yI2xN.png" group-title="Infantil",Baby TV HD
-
-#EXTINF:-1 tvg-id="TV RA TIM BUM" tvg-logo="http://i.imgur.com/0HQ20e3.png" group-title="Infantil",TV Rá-Tim-Bum
-
 #EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang
 https://d1cy34jllwtrns.cloudfront.net/hls1/boomerang.m3u8
-
-#EXTINF:-1 tvg-id="BOOMERANG SD" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang SD
 
 #EXTINF:-1 tvg-id="BOOMERANG HD" tvg-logo="http://i.imgur.com/syou7kI.png" group-title="Infantil",Boomerang HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/boomerang.m3u8
@@ -662,30 +562,20 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/tooncast.m3u8
 #EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon
 https://d1cy34jllwtrns.cloudfront.net/hls1/nick.m3u8
 
-#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon SD
-
 #EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon FHD
 https://d1cy34jllwtrns.cloudfront.net/hls1/nick.m3u8
 
 #EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/nick.m3u8
 
-#EXTINF:-1 tvg-id="NICK" tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="Infantil",Nickelodeon SD/HD
-
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.
 https://d1cy34jllwtrns.cloudfront.net/hls1/nickjr.m3u8
-
-#EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.2 SD
 
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/nickjr.m3u8
 
-#EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.SD/HD
-
 #EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://i.imgur.com/6vVmJJf.png" group-title="Infantil",Nick Jr.FHD
 https://d1cy34jllwtrns.cloudfront.net/hls1/nickjr.m3u8
-
-#EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob
 
 #EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob SD
 https://d1cy34jllwtrns.cloudfront.net/hls1/gloob.m3u8
@@ -693,12 +583,8 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/gloob.m3u8
 #EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/gloob.m3u8
 
-#EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob SD/HD
-
 #EXTINF:-1 tvg-id="GLOOB" tvg-logo="http://i.imgur.com/mFDFUjt.png" group-title="Infantil",Gloob Alternativo
 https://d1cy34jllwtrns.cloudfront.net/hls1/gloob.m3u8
-
-#EXTINF:-1 tvg-id="CARTOON NETWORK SD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network SD
 
 #EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/cartoon.m3u8
@@ -709,20 +595,8 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/cartoon.m3u8
 #EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network FULL HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/cartoon.m3u8
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Infantil",Cartoon Network SD/HD
-
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD
-
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD SD
-
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD HD
-
-#EXTINF:-1 tvg-id="DISNEY XD" tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="Infantil",Disney XD SD/HD
-
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids
 https://d1cy34jllwtrns.cloudfront.net/hls1/discoverykids.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids SD/HD
 
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/discoverykids.m3u8
@@ -730,15 +604,11 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/discoverykids.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids FULL HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/discoverykids.m3u8
 
-#EXTINF:-1 tvg-id="DISCOVERY KIDS" tvg-logo="http://i.imgur.com/DpgSKt0.png" group-title="Infantil",Discovery Kids SD
-
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior
 https://d1cy34jllwtrns.cloudfront.net/hls1/disneyjunior.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/disneyjunior.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY JR" tvg-logo="http://i.imgur.com/H9AY5z4.png" group-title="Infantil",Disney Junior SD/HD
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://i.imgur.com/ETxffjm.png" group-title="Infantil",Disney Channel
 https://d1cy34jllwtrns.cloudfront.net/hls1/disney.m3u8
@@ -746,68 +616,9 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/disney.m3u8
 #EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="" group-title="Infantil",Disney Channel HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/disney.m3u8
 
-#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="" group-title="Infantil",Disney Channel SD/HD
-
 ################################################################################# Séries e Desenhos 24 Horas
 
-#EXTINF:-1 tvg-id="a fantastica fabrica de chocolate" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/31/Charlie_and_the_Chocolate_Factory.jpg/250px-Charlie_and_the_Chocolate_Factory.jpg" group-title="Séries e Desenhos 24 Horas",A Fantastica Fabrica de Chocolate
-https://virgo.nxload.com/hls/ifCKC6ARleYhpx8eg2Nmm-1Zs5UHfCPaf1AvWJEdhffIweXrqMDEdOKT4s3yO3brqSh1cDM3WJa6TVGdEZeBJLYa9356BhMkFa0m6X/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="Todo Mundo Odeia O Cris" tvg-logo="todo mundo odeia o cris" group-title="Séries e Desenhos 24 Horas",Todo Mundo Odeia O Cris
-
-#EXTINF:-1 tvg-id="Chapolin" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Chapolin
-
-#EXTINF:-1 tvg-id="Chaves" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Chaves
-
-#EXTINF:-1 tvg-id="LARVAS" tvg-logo="https://www.stickpng.com/assets/thumbs/5ab111057603fc558cffc0e3.png" group-title="Séries e Desenhos 24 Horas",Larvas
-
-#EXTINF:-1 tvg-id="Masha e o urso" tvg-logo="s" group-title="Séries e Desenhos 24 Horas",Masha e o urso
-
-#EXTINF:-1 tvg-id="Os Simpsons" tvg-logo="os simpsons" group-title="Séries e Desenhos 24 Horas",Os Simpsons
-
-#EXTINF:-1 tvg-id="tom e jerry" tvg-logo="https://i.imgur.com/cE0qVzI.png" group-title="Séries e Desenhos 24 Horas",Tom e jerry
-
-#EXTINF:-1 tvg-id="PEPA PIG" tvg-logo="https://i0.wp.com/fazerfestas.com/wp-content/uploads/2017/01/Imagem-Destacada-Peppa-Pig-Logo.png" group-title="Séries e Desenhos 24 Horas",PEPA PIG
-
-#EXTINF:-1 tvg-id="Scooby doo" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Eu a patroa e as crianças
-
-#EXTINF:-1 tvg-id="Eu a patroa e as crianças" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Scooby doo
-
-#EXTINF:-1 tvg-id="Chaves desenho" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Chaves desenho
-
-#EXTINF:-1 tvg-id="Cão Coragem" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Cão Coragem
-
-#EXTINF:-1 tvg-id="Cão Coragem" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Cão Coragem 2
-
-#EXTINF:-1 tvg-id="Ben 10" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Ben 10
-
-#EXTINF:-1 tvg-id="As meninas super poderosas" tvg-logo="" group-title="Séries e Desenhos 24 Horas",As meninas super poderosas
-
-#EXTINF:-1 tvg-id="Apenas um Show" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Apenas um Show
-
-#EXTINF:-1 tvg-id="THUNDERCATS" tvg-logo="" group-title="Séries e Desenhos 24 Horas",THUNDERCATS
-
-#EXTINF:-1 tvg-id="Padrinhos Magicos" tvg-logo="https://colorir.org/wp-content/uploads/2015/03/os-padrinhos-magicos-para-colorir.png" group-title="Séries e Desenhos 24 Horas",Padrinhos Magicos
-
-#EXTINF:-1 tvg-id="Turma da Monica" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Turma da Monica
-
-#EXTINF:-1 tvg-id="Phineas e Ferb" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Phineas e Ferb
-
-#EXTINF:-1 tvg-id="Popeye" tvg-logo="https://i.pinimg.com/originals/3a/c3/ac/3ac3ac9a957f934708c7ce785ece3dc0.png" group-title="Séries e Desenhos 24 Horas",Popeye
-
-#EXTINF:-1 tvg-id="Manda Chuva" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Manda Chuva
-
-#EXTINF:-1 tvg-id="A Pantera Cor de Rosa" tvg-logo="http://kitdepontos.com.br/wp-content/uploads/2016/09/ponto-pantera-cor-de-rosa-kitdepontos.com_.br_.png" group-title="Séries e Desenhos 24 Horas",A Pantera cor de Rosa
-
-#EXTINF:-1 tvg-id="Corrida Maluca" tvg-logo="https://4.bp.blogspot.com/-l6qa-OaCCXc/WxMzbLIPc_I/AAAAAAAACZ8/dOFG8EJtmIIcPzIlm_uWAdKgwAadpR1ZQCLcBGAs/s1600/wacky.png" group-title="Séries e Desenhos 24 Horas",Corrida Maluca
-
-#EXTINF:-1 tvg-id="As Tartarugas Ninja" tvg-logo="" group-title="Séries e Desenhos 24 Horas",As Tartarugas Ninja
-
-#EXTINF:-1 tvg-id="Os Flintstones" tvg-logo="" group-title="Séries e Desenhos 24 Horas",Os Flintstones
-
 ################################################################################# Filmes e Series
-
-#EXTINF:-1 tvg-id="CINE SKY" tvg-logo="http://www.assistirtvonlinegratis.com.br/tvonline/wp-content/uploads/2018/07/cine-sky.png" group-title="Filmes e Séries",Cine Sky
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Filmes e Séries",HBO HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/hbo.m3u8
@@ -824,28 +635,14 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/hbosignature.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://i.imgur.com/x2Enlmt.png" group-title="Filmes e Séries",HBO Family HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/hbofamily.m3u8
 
-#EXTINF:-1 tvg-id="MAX" tvg-logo="http://i.imgur.com/49eEDXa.png" group-title="Filmes e Séries",Max HD
-
-#EXTINF:-1 tvg-id="MAX PRIME E" tvg-logo="http://i.imgur.com/rLHHuFg.png" group-title="Filmes e Séries",Max Prime *e
-
 #EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://i.imgur.com/z0DmH95.png" group-title="Filmes e Séries",Max Prime HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/maxprime.m3u8
-
-#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://i.imgur.com/3Ci9AWu.png" group-title="Filmes e Séries",Max Up
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Filmes e Séries",Cinemax HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/cinemax.m3u8
 
-#EXTINF:-1 tvg-id="TC PREMIUM" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="Filmes e Séries",Telecine Premium HD
-
-#EXTINF:-1 tvg-id="TC TOUCH" tvg-logo="http://i.imgur.com/849pB2j.png" group-title="Filmes e Séries",Telecine Touch HD
-
-#EXTINF:-1 tvg-id="TC FUN" tvg-logo="http://i.imgur.com/ltpUjbD.png" group-title="Filmes e Séries",Telecine Fun HD
-
 #EXTINF:-1 tvg-id="TC PIPOCA" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="Filmes e Séries",Telecine Pipoca HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/telecinepipoca.m3u8
-
-#EXTINF:-1 tvg-id="TC CULT" tvg-logo="http://i.imgur.com/CHaWCed.png" group-title="Filmes e Séries",Telecine Cult HD
 
 #EXTINF:-1 tvg-id="AXN" tvg-logo="http://i.imgur.com/kNNpfSN.png" group-title="Filmes e Séries",AXN HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/axn.m3u8
@@ -868,15 +665,11 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/megapix.m3u8
 #EXTINF:-1 tvg-id="SPACE" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Filmes e Séries",Space HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/space.m3u8
 
-#EXTINF:-1 tvg-id="TBS" tvg-logo="http://i.imgur.com/XHUoj3n.png" group-title="Filmes e Séries",TBS HD
-
 #EXTINF:-1 tvg-id="TCM" tvg-logo="http://i.imgur.com/HgmpKDu.png" group-title="Filmes e Séries",TCM
 https://d1cy34jllwtrns.cloudfront.net/hls1/tcm.m3u8
 
 #EXTINF:-1 tvg-id="SYFY" tvg-logo="http://i.imgur.com/nRBPSZp.png" group-title="Filmes e Séries",Syfy
 https://d1cy34jllwtrns.cloudfront.net/hls1/syfy.m3u8
-
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="http://manager.hidromail.ch/files/imagem_canal/1559768114_893f4f74afaa7a1bb04b4cd69944407e5484395c.png" group-title="Filmes e Séries",Telecine Action
 
 #EXTINF:-1 tvg-id="SONY" tvg-logo="http://i.imgur.com/eHN8OeK.png" group-title="Filmes e Séries",Sony HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/sony.m3u8
@@ -889,8 +682,6 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/tnt.m3u8
 
 #EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="Filmes e Séries",Universal Channel HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/universal.m3u8
-
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="http://i.imgur.com/yScrn6s.png" group-title="Filmes e Séries",Paramount HD
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner Channel HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/warner.m3u8
@@ -1037,102 +828,18 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-gnews24ha/hls-gnews24ha_2126/pla
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="http://i.imgur.com/gS0ZFOv.png" group-title="Notícias",Globo News SD/HD
 https://tinyurl.com/r5lqjf5?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="BAND NEWS" tvg-logo="http://i.imgur.com/oLcHI8G.png" group-title="Notícias",Band News
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kIpd4xA.png" group-title="Notícias",GV News
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/nkSmEG9.jpg" group-title="Notícias",Porto Canal
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/U0WCUeM.png" group-title="Notícias",Bloomberg
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/doTfHuK.png" group-title="Notícias",TVI
 http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 ################################################################################# Documentários
 
-#EXTINF:-1 tvg-id="CURTA" tvg-logo="http://i.imgur.com/Tkm9J8X.png" group-title="Documentários",Curta!
-
-#EXTINF:-1 tvg-id="LIFETIME" tvg-logo="http://i.imgur.com/Bt7sDyU.png" group-title="Documentários",Lifetime
-
-#EXTINF:-1 tvg-id="TRU TV" tvg-logo="http://i.imgur.com/weW9Upy.png" group-title="Documentários",TruTV
-
-#EXTINF:-1 tvg-id="ARTE 1" tvg-logo="http://i.imgur.com/sbdMNef.png" group-title="Documentários",Arte 1
-
-#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://i.imgur.com/QvAbjda.png" group-title="Documentários",Fox Life
-
-#EXTINF:-1 tvg-id="AeE" tvg-logo="http://i.imgur.com/jT9k8mt.png" group-title="Documentários",A&E
-
-#EXTINF:-1 tvg-id="TLC" tvg-logo="http://i.imgur.com/zQM47Cf.png" group-title="Documentários",TLC
-
-#EXTINF:-1 tvg-id="E!" tvg-logo="http://i.imgur.com/Vkg12Kw.png" group-title="Documentários",E!
-
-#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-logo="http://i.imgur.com/eY508Ps.png" group-title="Documentários",Animal Planet
-
-#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHICS" tvg-logo="http://i.imgur.com/caeyoP1.png" group-title="Documentários",National Geographic
-
-#EXTINF:-1 tvg-id="NATGEO WILD" tvg-logo="http://i.imgur.com/MH5AxVt.png" group-title="Documentários",Nat Geo Wild
-
-#EXTINF:-1 tvg-id="THE HISTORY CHANNEL" tvg-logo="http://i.imgur.com/0oZXoaE.png" group-title="Documentários",History
-
-#EXTINF:-1 tvg-id="H2" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="Documentários",H2
-
-#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://i.imgur.com/sIN7H8e.png" group-title="Documentários",Discovery Channel
-
-#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-logo="http://i.imgur.com/2vuY35C.png" group-title="Documentários",Discovery Turbo
-
-#EXTINF:-1 tvg-id="INVESTIGACAO DISCOVERY" tvg-logo="http://i.imgur.com/1nFjk1t.png" group-title="Documentários",Investigação Discovery
-
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-logo="http://i.imgur.com/Dx49y4f.png" group-title="Documentários",Discovery Science
-
-#EXTINF:-1 tvg-id="DISCOVERY HOME e HEALTH" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Documentários",Discovery Home & Health
-
-#EXTINF:-1 tvg-id="DISCOVERY CIVILIZATION" tvg-logo="http://i.imgur.com/dN249KE.png" group-title="Documentários",Discovery Civilization
-
-#EXTINF:-1 tvg-id="DISCOVERY WORLD" tvg-logo="http://i.imgur.com/pZLvsXH.png" group-title="Documentários",Discovery World
-
-#EXTINF:-1 tvg-id="DISCOVERY THEATER" tvg-logo="http://i.imgur.com/DHNMh5i.png" group-title="Documentários",Discovery Theater
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/VT4A3hc.png" group-title="Documentários",Discovery Showcase
-
 ################################################################################# Canais Variedade
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NKXnETl.jpg" group-title="Variedade e Músicas",Yeeah!
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/6dFdK50.png" group-title="Variedade e Músicas",Rede New
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/S58zj9m.png" group-title="Variedade e Músicas",TV União
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/fwmQYUI.png" group-title="Variedade e Músicas",Top TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/pql9wHs.png" group-title="Variedade e Músicas",Gospel Music TV 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/kZSx7gW.png" group-title="Variedade e Músicas",H!T Music Channel
-
-#EXTINF:-1 tvg-id="IDEAL TV" tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="Variedade e Músicas",Ideal TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/saCbNDR.png" group-title="Variedade e Músicas",Chef TV
-
-#EXTINF:-1 tvg-id="FOOD NETWORK" tvg-logo="http://i.imgur.com/USpDZ09.png" group-title="Variedade e Músicas",Food Network
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/38Se3Mu.png" group-title="Variedade e Músicas",Mix TV
 
 #EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva
 https://d1cy34jllwtrns.cloudfront.net/hls1/viva.m3u8
 
 #EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/viva.m3u8
-
-#EXTINF:-1 tvg-id="VIVA" tvg-logo="http://i.imgur.com/kadMdc9.png" group-title="Variedade e Músicas",Viva SD/HD
-
-#EXTINF:-1 tvg-id="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT
-
-#EXTINF:-1 tvg-id="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT HD
-
-#EXTINF:-1 tvg-id="GNT" tvg-logo="http://i.imgur.com/cfJR8v5.png" group-title="Variedade e Músicas",GNT SD/HD
-
-#EXTINF:-1 tvg-id="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis
-
-#EXTINF:-1 tvg-id="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis HD
 
 #EXTINF:-1 tvg-id="BIS" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Variedade e Músicas",Bis SD/HD
 https://tinyurl.com/ud6z9td?PEDROJUNIORTUTORIAIS
@@ -1143,39 +850,11 @@ https://d1cy34jllwtrns.cloudfront.net/hls1/multishow.m3u8
 #EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/multishow.m3u8
 
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-logo="http://i.imgur.com/YDqoOVf.png" group-title="Variedade e Músicas",Multishow SD/HD
-
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Variedade e Músicas",Canal Brasil
-
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Variedade e Músicas",Canal Brasil HD
-
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://i.imgur.com/sr4qDgo.png" group-title="Variedade e Músicas",Canal Brasil SD/HD
-
 #EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat
 https://d1cy34jllwtrns.cloudfront.net/hls1/maisbobosat.m3u8
 
 #EXTINF:-1 tvg-id="+globosathd.br" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat HD
 https://d1cy34jllwtrns.cloudfront.net/hls1/maisbobosat.m3u8
-
-#EXTINF:-1 tvg-id="MAIS GLOBOSAT" tvg-logo="http://i.imgur.com/ep1Op1L.png" group-title="Variedade e Músicas",Mais Globosat SD/HD
-
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://i.imgur.com/U6Rgjqs.png" group-title="Variedade e Músicas",MTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/M5FodWF.png" group-title="Variedade e Músicas",VH1
-
-#EXTINF:-1 tvg-id="VH1 MEGA HITS" tvg-logo="http://i.imgur.com/UdgsfWl.png" group-title="Variedade e Músicas",VH1 Mega Hits
-
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="http://i.imgur.com/caWgstt.png" group-title="Variedade e Músicas",Play TV
-
-#EXTINF:-1 tvg-id="MUSIC BOX BRASIL" tvg-logo="http://i.imgur.com/oRSHAl1.png" group-title="Variedade e Músicas",Music Box Brazil
-
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL" tvg-logo="http://i.imgur.com/K7p1g86.png" group-title="Variedade e Músicas",Prime Box Brazil
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/wgTIB55.png" group-title="Variedade e Músicas",Mega TV
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cbqlIU5.png" group-title="Variedade e Músicas",Polishop
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aDoEp34.png" group-title="Variedade e Músicas",Shoptime
 
 ################################################################################# Filmes
 
@@ -1185,92 +864,55 @@ https://tinyurl.com/qkpj659
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qGOedSx.jpg" group-title="Filmes",O homen que desafiou o diabo
 https://tinyurl.com/wzmlezh
 
+#EXTINF:-1 tvg-id="a fantastica fabrica de chocolate" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/31/Charlie_and_the_Chocolate_Factory.jpg/250px-Charlie_and_the_Chocolate_Factory.jpg" group-title="Filmes",A Fantastica Fabrica de Chocolate
+https://virgo.nxload.com/hls/ifCKC6ARleYhpx8eg2Nmm-1Zs5UHfCPaf1AvWJEdhffIweXrqMDEdOKT4s3yO3brqSh1cDM3WJa6TVGdEZeBJLYa9356BhMkFa0m6X/index-v1-a1.m3u8
+
 ################################################################################# Filmes de terror
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ewdEUqr" group-title="Filmes de terror", Annabelle 3 De volta para casa
 https://tinyurl.com/qpf4nf2
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JLYbFBM" group-title="Filmes de terror", Brinquedo assassino
-https://tinyurl.com/vz49mj7
-
 ################################################################################# Séries Novas/Clássicas
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E01
-
+https://tinyurl.com/ucwcz6x
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E02
-
+https://tinyurl.com/wf2gypj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E03
-
+https://tinyurl.com/qr9m85d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E04
-
+https://tinyurl.com/uvuv2d5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E05
-
+https://tinyurl.com/v83962j
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E06
-
+https://tinyurl.com/u38qjuq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E07
-
+https://tinyurl.com/tnz8zgu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E08
-
+https://tinyurl.com/w7wkcu9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E09
-
+https://tinyurl.com/uxsm56j
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E10
-
+https://tinyurl.com/vk3rjkm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E11
-
+https://tinyurl.com/vpq9c43
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E12
-
+https://tinyurl.com/wkmgz5t
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E13
-
+https://tinyurl.com/wplvmqh
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E14
-
+https://tinyurl.com/qle3rpq
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E15
-
+https://tinyurl.com/yx6dz332
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E16
-
+https://tinyurl.com/uao9xlg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E17
-
+https://tinyurl.com/w6dm5o8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 1T-E18
+https://tinyurl.com/ruyn4dc
 
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E01
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E02
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E03
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E04
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E05
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E06
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E07
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E08
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E09
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201909/the-good-doctor-s3_poster_2.jpg" group-title="The Good Doctor", The Good Doctor 2T-E10
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E01
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E02
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E03
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E04
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E05
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E06
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E07
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E08
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E09
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/The_Good_Doctor_temporada_1.jpg" group-title="The Good Doctor", The Good Doctor 3T-E10
-
+https://tinyurl.com/u4zuyah
 
 ################################################################################# Filmes On Demand
 
@@ -1298,8 +940,6 @@ https://tinyurl.com/wtw5zmc
 #EXTINF:-1 tvg-id="PLAYBOY TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Adulto",Playboy TV
 http://46.29.165.95:8081/stream/Playboy/chunks.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="SEX PRIVE" tvg-logo="http://i.imgur.com/kbei9Ju.png" group-title="Adulto",Sex Prive
-
 #EXTINF:-1 tvg-id="SEXY HOT" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot
 https://globolive.akamaized.net/d/c/x2800/s/hls-sexy24ha/hls-sexy24ha_964/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
 
@@ -1309,27 +949,11 @@ https://globolive.akamaized.net/d/c/x2800/s/hls-sexy24ha/hls-sexy24ha_2316/playl
 #EXTINF:-1 tvg-id="SEXY HOT" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Adulto",Sexy Hot SD/HD
 https://tinyurl.com/qkvffbx?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="SEXTREME" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Adulto",Sextreme
-
-#EXTINF:-1 tvg-id="VENUS" tvg-logo="http://i.imgur.com/SycLayU.png" group-title="Adulto",Venus
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/2uTdEk3.png" group-title="Adulto",Sex Zone
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/8a71pse.png" group-title="Adulto",Hot
 http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/18424_.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/NXRIW14.png" group-title="Adulto",Redlight
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/BQzmgyG.png" group-title="Adulto",Hustler HD
 http://46.29.165.95:8081/stream/Hustler-HD/chunks.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/LpbTbG4.png" group-title="Adulto",Dorcel
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/j0igRZd.png" group-title="Adulto",Dusk
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/cO2Ouk5.png" group-title="Adulto",Eroxxx
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/s7hsQT0.png" group-title="Adulto",Penthouse
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DevgPrx.png" group-title="Adulto",Passion XXX
 http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/215_.m3u8?PEDROJUNIORTUTORIAIS
@@ -1342,8 +966,6 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PEDROJUNIO
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/TzL6H2G.png" group-title="Adulto",Brazzers
 http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/18428_.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/rpMAzgk.png" group-title="Adulto",XMuvi
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/Pk11B3s.png" group-title="Adulto",Cento X Cento
 http://94.130.146.43/xtreamcodes/iptv_xtream_codes/streams/18425_.m3u8?PEDROJUNIORTUTORIAIS
